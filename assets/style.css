@@ -11,8 +11,8 @@
 body {
     box-sizing: border-box;
     color: white;
-    background-color: rgb(112, 30, 30);
-}
+    background: #545454;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgb(53, 53, 53) 100%);}
 
 .cover {
     margin: 164px 964px 164px 180px;
