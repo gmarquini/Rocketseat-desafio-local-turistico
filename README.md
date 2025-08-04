@@ -34,3 +34,5 @@ Esse processo exigiu atenção aos detalhes, paciência e o desenvolvimento de u
 ---
 
 Este desafio contribuiu significativamente para o fortalecimento das bases em desenvolvimento web, reforçando a importância dos detalhes na criação de interfaces bem construídas e visualmente consistentes.
+
+Obrigado!
