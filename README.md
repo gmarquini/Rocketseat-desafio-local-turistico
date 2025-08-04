@@ -26,7 +26,6 @@ Esse processo exigiu atenção aos detalhes, paciência e o desenvolvimento de u
 ## Aprendizados
 
 - Importância de uma boa estrutura semântica em HTML
-- Utilização prática do Flexbox para organização de layouts
 - Controle preciso de espaçamentos e alinhamentos em CSS
 - Interpretação e aplicação de designs a partir do Figma
 - Consulta eficaz à documentação técnica
